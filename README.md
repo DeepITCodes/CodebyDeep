@@ -1,2 +1,2 @@
 # CodebyDeep
-This Repo's created for practice purpose.
+This Repo is created for practice purpose.
